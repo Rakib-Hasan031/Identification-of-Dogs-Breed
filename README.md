@@ -1,4 +1,4 @@
-# Dog Breed Classification
+# Identification of Dogs Breed
 
 An end-to-end multi-class dog breed classification project using TensorFlow 2.0 and TensorFlow Hub.
 
@@ -20,9 +20,6 @@ The dataset is from Kaggle's dog breed identification competition:
 - Test set: ~10,000+ unlabeled images
 - Labels file: Contains breed labels for training images
 
-## Model Performance
-- Accuracy: 88.52%
-- Loss: 1.32
 
 ## Setup
 
@@ -112,9 +109,6 @@ The model uses transfer learning with MobileNetV2 as the base model:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Dataset from Kaggle's Dog Breed Identification competition
